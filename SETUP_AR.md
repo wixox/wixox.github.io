@@ -16,9 +16,4 @@
 - انزل إلى قسم "Pages".
 - تحت "Source"، اختر الفرع `main` والمجلد الجذر (root). ثم اضغط على "Save".
 
-## 4. جعل المستودع خاصاً
-- اذهب إلى قسم "General" في إعدادات المستودع.
-- في قسم "Danger Zone"، ستجد خيار "Change repository visibility".
-- اختر "Private" ثم "I understand the consequences, change repository visibility".
-
 الآن، تم إعداد GitHub Pages بنجاح!
